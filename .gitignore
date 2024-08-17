@@ -1,0 +1,4 @@
+#.gitignore is a file where you write the names of the files you want to ingnore.
+# The name has to be .gitignore
+
+.DS_Store
