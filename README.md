@@ -1,3 +1,3 @@
 # Kokoa Clone 2024 08 Practice
 
-This will be the first commit!
+I'm update the README.md
